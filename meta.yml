@@ -1,0 +1,25 @@
+---
+name: Mostrando información
+locale: es
+type: learning
+beta: false
+teacher_info: ''
+language: html
+id_format: "%05d"
+order:
+- 23
+- 12
+- 13
+- 1
+- 2
+- 3
+- 4
+- 5
+- 18
+- 6
+- 14
+- 15
+- 19
+- 20
+- 21
+private: false

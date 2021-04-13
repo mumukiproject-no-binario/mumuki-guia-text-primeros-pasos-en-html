@@ -1,0 +1,21 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '... hay un botón que dice _"Enviar"_;'
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '... _"Antes de empezar"_ es un link;'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "... hay un link a la página principal de Mumuki."
+  checked: true
+name: Antes de empezar

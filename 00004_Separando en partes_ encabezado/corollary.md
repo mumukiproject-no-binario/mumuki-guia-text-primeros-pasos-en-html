@@ -1,0 +1,1 @@
+Definir un `h1` nos permitió distinguir el encabezado de los otros párrafos. :relaxed:
